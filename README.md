@@ -16,5 +16,5 @@ I am an Advanced Backend Developer specializing in building scalable, secure, an
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSVHamdy&show_icons=true&theme=radial)
 
 ### 📨 Connect with me:
-- [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ahmed-mohamed-taha-56763b2a3/))
+- [LinkedIn]((https://www.linkedin.com/in/ahmed-mohamed-taha-56763b2a3/))
 - [Email](ahmedmohamedtaha200444@gmail.com)
