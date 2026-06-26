@@ -20,3 +20,4 @@ I am an Advanced Backend Developer specializing in building scalable, secure, an
 
 ### 📨 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ahmed-mohamed-taha-56763b2a3/)
+- [Email] (ahmedmohamedtaha200444@gmail.com)
